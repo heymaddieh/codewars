@@ -23,3 +23,4 @@ function findLongest(array){
   }
   return highest;
 }
+
